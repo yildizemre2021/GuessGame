@@ -1,0 +1,15 @@
+/home/emre/Code/Csharp/GuessGame/bin/Debug/net6.0/GuessGame
+/home/emre/Code/Csharp/GuessGame/bin/Debug/net6.0/GuessGame.deps.json
+/home/emre/Code/Csharp/GuessGame/bin/Debug/net6.0/GuessGame.runtimeconfig.json
+/home/emre/Code/Csharp/GuessGame/bin/Debug/net6.0/GuessGame.dll
+/home/emre/Code/Csharp/GuessGame/bin/Debug/net6.0/ref/GuessGame.dll
+/home/emre/Code/Csharp/GuessGame/bin/Debug/net6.0/GuessGame.pdb
+/home/emre/Code/Csharp/GuessGame/obj/Debug/net6.0/GuessGame.csproj.AssemblyReference.cache
+/home/emre/Code/Csharp/GuessGame/obj/Debug/net6.0/GuessGame.GeneratedMSBuildEditorConfig.editorconfig
+/home/emre/Code/Csharp/GuessGame/obj/Debug/net6.0/GuessGame.AssemblyInfoInputs.cache
+/home/emre/Code/Csharp/GuessGame/obj/Debug/net6.0/GuessGame.AssemblyInfo.cs
+/home/emre/Code/Csharp/GuessGame/obj/Debug/net6.0/GuessGame.csproj.CoreCompileInputs.cache
+/home/emre/Code/Csharp/GuessGame/obj/Debug/net6.0/GuessGame.dll
+/home/emre/Code/Csharp/GuessGame/obj/Debug/net6.0/ref/GuessGame.dll
+/home/emre/Code/Csharp/GuessGame/obj/Debug/net6.0/GuessGame.pdb
+/home/emre/Code/Csharp/GuessGame/obj/Debug/net6.0/GuessGame.genruntimeconfig.cache
