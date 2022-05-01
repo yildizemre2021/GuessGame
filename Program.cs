@@ -3,6 +3,8 @@
 Random rasgele = new Random();
 
 int sayi = rasgele.Next(1, 100);
+int tahmax = 0;
+
 Console.Clear();
 while (true)
 {
@@ -11,15 +13,20 @@ while (true)
 
     if (tahmin < sayi)
     {
+        // tahmax = tahmax + 1;
+        tahmax++; // hepsi ayni islevi yapiyor.
+        // tahmax += 1;
         Console.WriteLine("Tahmininiz sayidan kucuk!");
     }
     else if (tahmin > sayi)
     {
+        tahmax++;
         Console.WriteLine("Tahmininiz sayidan buyuk!");
     }
     else if (tahmin == sayi)
     {
-        Console.WriteLine("Tebrikler " + sayi + " sayisini buldunuz!");
+        tahmax++;
+        Console.WriteLine("Tebrikler " + sayi + " sayisini " + tahmax + ". tahmininizde " + "buldunuz!");
         break;
     }
 }
